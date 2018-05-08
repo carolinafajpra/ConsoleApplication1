@@ -13,6 +13,7 @@ C:\Users\cfajardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Cons
 C:\Users\cfajardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.xml
 C:\Users\cfajardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.xml
 C:\Users\cfajardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.xml
+C:\Users\cfajardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\prueba.csprojResolveAssemblyReference.cache
 C:\Users\cfajardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
 C:\Users\cfajardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\prueba.csproj.GenerateResource.Cache
 C:\Users\cfajardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
